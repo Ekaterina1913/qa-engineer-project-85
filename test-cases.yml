@@ -1,0 +1,11 @@
+- summary: |
+    Сайт должен быть безопасным и защищать данные пользователя
+  requirement: |
+     При 
+  prerequisites: |
+  
+  test-data: |
+  
+  steps:
+  
+  expected-result: |
