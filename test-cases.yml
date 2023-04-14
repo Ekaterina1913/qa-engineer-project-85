@@ -148,5 +148,3 @@
     - На всплывающем окне "Are you sure you want to give up?" выбрать "Give up"
   expected-result: |
     Пользователь сдался во время игры
-  expected-result: |
-    Пользователь создал игру с другим игроком  
